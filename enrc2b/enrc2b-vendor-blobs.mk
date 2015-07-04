@@ -77,6 +77,7 @@ PRODUCT_COPY_FILES += \
   vendor/htc/enrc2b/proprietary/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
   vendor/htc/enrc2b/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
   vendor/htc/enrc2b/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
+  vendor/htc/enrc2b/proprietary/lib/hw/keystore.enrc2b.so:system/lib/hw/keystore.enrc2b.so \
   vendor/htc/enrc2b/proprietary/lib/hw/local_time.default.so:system/lib/hw/local_time.default.so \
   vendor/htc/enrc2b/proprietary/lib/hw/sensors.enrc2b.so:system/lib/hw/sensors.enrc2b.so \
   vendor/htc/enrc2b/proprietary/lib/hw/camera.vendor.tegra.so:system/lib/hw/camera.vendor.tegra.so \
