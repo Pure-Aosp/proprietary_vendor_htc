@@ -77,11 +77,11 @@ PRODUCT_COPY_FILES += \
   vendor/htc/enrc2b/proprietary/lib/hw/gralloc.default.so:system/lib/hw/gralloc.default.so \
   vendor/htc/enrc2b/proprietary/lib/hw/gralloc.tegra.so:system/lib/hw/gralloc.tegra.so \
   vendor/htc/enrc2b/proprietary/lib/hw/hwcomposer.tegra.so:system/lib/hw/hwcomposer.tegra.so \
-  vendor/htc/enrc2b/proprietary/lib/hw/keystore.default.so:system/lib/hw/keystore.default.so \
   vendor/htc/enrc2b/proprietary/lib/hw/local_time.default.so:system/lib/hw/local_time.default.so \
-  vendor/htc/enrc2b/proprietary/lib/hw/nfc.enrc2b.so:system/lib/hw/nfc.enrc2b.so \
   vendor/htc/enrc2b/proprietary/lib/hw/sensors.enrc2b.so:system/lib/hw/sensors.enrc2b.so \
   vendor/htc/enrc2b/proprietary/lib/hw/camera.vendor.tegra.so:system/lib/hw/camera.vendor.tegra.so \
+  vendor/htc/enrc2b/proprietary/lib/libtf_crypto_sst.so:system/lib/libtf_crypto_sst.so \
+  vendor/htc/enrc2b/proprietary/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
   vendor/htc/enrc2b/proprietary/lib/libaudioavp.so:system/lib/libaudioavp.so \
   vendor/htc/enrc2b/proprietary/lib/libardrv_dynamic.so:system/lib/libardrv_dynamic.so \
   vendor/htc/enrc2b/proprietary/lib/libBeautyChat.so:system/lib/libBeautyChat.so \
